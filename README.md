@@ -1,4 +1,4 @@
-# Agentic AI Research Paper Assistant
+# Research Paper Assistant
 
 An interactive research paper assistant that organizes the search, analysis, summarization, and recommendation of Machine Learning research papers using a coordinated team of AI agents. The system utilizes a corpus of 50,000 ArXiv Machine Learning abstracts indexed in a FAISS vector database and orchestrates Google Gemini models to automate the discovery and analysis process.
 
