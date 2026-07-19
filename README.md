@@ -6,7 +6,7 @@ An interactive research paper assistant that organizes the search, analysis, sum
 
 ## Project Overview
 
-This project is the evolution of the AI Research Paper Intelligence System (Project 2). Instead of a simple search-and-display workflow, this version implements an agent-based architecture where multiple specialized agents cooperate to fulfill a user's research query.
+This project is the evolution of the AI Research Paper Intelligence System. Instead of a simple search-and-display workflow, this version implements an agent-based architecture where multiple specialized agents cooperate to fulfill a user's research query.
 
 ---
 
